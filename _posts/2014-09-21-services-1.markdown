@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Phishing.png
+img: Phishing.jpg
 category: Services
 title: Phishing
 description: |
