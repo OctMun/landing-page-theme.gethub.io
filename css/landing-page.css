@@ -164,3 +164,10 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.grid-item { 
+  width: 200px;
+  img {
+    width: 50%;
+  }
+}
